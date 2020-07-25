@@ -1,0 +1,7 @@
+<img style="width: 800px; height: 500px;" src="https://hiring-assets.careerbuilder.com/media/attachments/careerbuilder-ar_post-64.jpg?1470185432" class="sliderImage">
+
+<img style="width: 800px; height: 500px;" src="https://intelligencepharma.files.wordpress.com/2018/08/alphagamma-how-to-look-professional-in-a-job-interview-entrepreneurship-1021x580.jpg" class="sliderImage">
+
+<img style="width: 800px; height: 500px;" src="https://www.naceweb.org/uploadedimages/images/2017/feature/salaries-bonuses-college-recruiting.jpg" class="sliderImage">
+
+<img style="width: 800px; height: 500px;" src="https://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/graduate-guide/ThinkstockPhotos-465294781.jpg"class="sliderImage">
